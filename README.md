@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @EndlezEndless
+- :space_invader: Hi, I’m Nero
+- From philippines
+
 - 👀 I’m interested in UX/UI Design
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 
+- :skull::clown_face: I’m currently learning PHP 
+- :skull::clown_face: I’m currently learning Javascript
+
+
+- :skull_and_crossbones: I’m Planning to Learn MERN Stack
+- :skull_and_crossbones: I’m Planning to Learn Tailwind CSS
+
 
 
 <!---
