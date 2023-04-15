@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EndlezEndless
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning MERN Stack
 
 
 <!---
