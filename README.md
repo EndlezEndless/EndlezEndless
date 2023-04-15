@@ -1,15 +1,13 @@
-- :space_invader::smoking: Hi, I’m Nero
+- :space_invader: Hi, I’m Nero
 - :philippines: From philippines
 
 - :smoking: I’m interested in UX/UI Design
 - :smoking: I’m interested in Web Development
 
-- :skull: :clown_face: I’m currently learning PHP 
-- :skull: :clown_face: I’m currently learning Javascript
 
+- :clown_face: I’m currently learning Javascript and PHP 
+- :skull:  I’m Planning to Learn MERN Stack and Tailwind CSS
 
-- :skull_and_crossbones: I’m Planning to Learn MERN Stack
-- :skull_and_crossbones: I’m Planning to Learn Tailwind CSS
 
 
 
