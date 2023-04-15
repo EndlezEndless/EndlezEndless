@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EndlezEndless
-- 👋 I’m interested in UX/UI Design
+- 👀 I’m interested in UX/UI Design
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 
